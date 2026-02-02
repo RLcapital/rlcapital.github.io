@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : 
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : 
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  X                : # https://x.com/HedgeANDTheory
+  X                : "https://x.com/HedgeANDTheory"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
