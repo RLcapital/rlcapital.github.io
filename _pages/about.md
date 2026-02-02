@@ -9,7 +9,7 @@ redirect_from:
 
 I am Canadian economics student finisning my last semester at Toronto Metropolitan Univeristy who is currently studying for the CFA level 1 exam in May 2026. In my downtime, my interests range from practicing piano to reading the great authors like Dostodevsky or optiziming my conveyer belts on Factorio. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ Check out my [Substack](https://wwww.hedgeandtheory.com) where I write out mainly nomrative essays on interesting economics.
 
 A data-driven personal website
 ======
