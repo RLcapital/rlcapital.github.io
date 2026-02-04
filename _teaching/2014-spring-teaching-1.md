@@ -1,19 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Reading list"
 collection: teaching
-type: "Undergraduate course"
+type: "Books that changed my worldview"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: 
+date: 
+location: 
 ---
+A personal documentation of the most influential books that I've read, ranging from economics, metaphysics, history, and others.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Economics
 ======
 
-Heading 2
+Philosophy
 ======
 
 Heading 3
