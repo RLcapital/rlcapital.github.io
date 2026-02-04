@@ -13,7 +13,7 @@ I am Canadian economics student finisning my last semester at Toronto Metropolit
 
 What I'm working on
 ======
-Besides hitting the books, there are numerous things I am currently working on. First, is enhancing my technical experise in various softwares like Excel and Python by completing course work on websites like Udemy and Coursera. In addition to technicality, I am working on building my brand "Hedge & Theory" acorss multiple domains like X, Substack, Linkedin, and possibly YouTube to take a stance in the battlefield of ideas. Where is anti-capitalist sentiment seems to be growing despite its insurmountable transformation of human prosperity. Therefore, a free market school of thought must be vehemently fought over for posterity. 
+Besides hitting the books, there are numerous things I am currently working on. First, is enhancing my technical experise in various softwares like Excel and Python by completing course work on websites like Udemy and Coursera. In addition to technicality, I am working on building my brand, "Hedge & Theory" acorss multiple domains like X, Substack, Linkedin, and possibly YouTube to take a stance in the battlefield of ideas. Where anti-capitalist sentiment seems to be  growing despite its insurmountable transformation of human prosperity. Therefore, a free market school of thought must be vehemently fought over for posterity. 
 
 Some of my favourite writers. 
 
