@@ -10,7 +10,10 @@
 main:   
   - title: "About"
     url: /cv/
-    
+
+  - title: "Teaching"
+    url: /teaching/
+  
   - title: "Projects"
     url: /year-archive/
     
