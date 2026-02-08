@@ -11,20 +11,17 @@ redirect_from:
 
 Education
 ======
-* Tornto Metropolitan University | Bachelor of Commerce in Economics + Minor in Finance
-
-  Relevant Coursework: _Mathematics for Economics, Advanced Microeconomics, Econometrics, Game Theory, Applied
-  Research methods, Applied Economic Analysis, Investment Analysis, Money & Banking, Derivatives_
-  
-  Activities and societies:
+Toronto Metropolitan University | Bachelor of Commerce in Economics + Minor in Finance
+* Relevant Coursework: _Mathematics for Economics, Advanced Microeconomics, Econometrics, Game Theory, Applied Research methods, Applied Economic Analysis, Investment Analysis, Money & Banking, Derivatives_
+* Activities and societies:
     * Ted Rogers TRACE Delegate | Interest Group (Sept. 2022–Dec. 2022)
     * PennyDrops Research & Development Associate | Non-profit Organization (Jun 2024-Sept. 2025)
 
-* CFA Level 1 Candidate for May 2026
+CFA Level 1 Candidate for May 2026
 
 Work experience
 ======
-* Mover for Quality Move Management (Toronto Location) | June. 2023-Aug. 2023, June 2024-Aug.2024
+Mover for Quality Move Management (Toronto Location) | June. 2023-Aug. 2023, June 2024-Aug.2024
   * Worked closely with my manager to complete concurrent tasks such as paperwork, bookkeeping, & other office work.
   * Performed laborious tasks such as warehouse logistics such as tracking customer shipments moving in and out of the warehouse—tracking inventory
   * Moved clients from all over Ontario with packing, loading, delivery, unloading, and assembling services—jobs as heavy as 20,000ibs in a day
