@@ -2,7 +2,7 @@
 title: "Investing & Finance"
 collection: teaching
 type: "Valuation, security analysis, etc."
-permalink: /teaching/2014-spring-teaching-1
+permalink: /History-reading-list.md
 author_profile: false
 ---
 
