@@ -3,6 +3,7 @@ title: "Investing & Finance"
 collection: teaching
 type: "Valuation, security analysis, etc."
 permalink: /teaching/2014-spring-teaching-1
+author_profile: false
 ---
 
 Investing
