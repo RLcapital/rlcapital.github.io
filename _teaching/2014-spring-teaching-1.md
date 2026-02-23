@@ -3,9 +3,7 @@ title: "Economics"
 collection: teaching
 type: "Austrain Economics, pricing theory, monetary policy, etc."
 permalink: /teaching/2014-spring-teaching-1
-date: 2026-02-04 
 ---
-A personal documentation of the most influential books that I've read, ranging from economics, metaphysics, history, and others.
 
 Theory & Fundamentals
 ======
