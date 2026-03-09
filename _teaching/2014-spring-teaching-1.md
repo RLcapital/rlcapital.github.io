@@ -5,8 +5,6 @@ type: "Austrain Economics, pricing theory, monetary policy, etc."
 permalink: /teaching/2014-spring-teaching-1
 author_profile: false
 ---
-<details> 
-  <summary>Essential readings for economics</summary>
 
 Theory & Fundamentals
 ======
@@ -26,4 +24,3 @@ Microeconomics & Game Theory
 ======
 * Theory of Games and Economic Behavior - John Von Neumann
 
-  </hidden>
