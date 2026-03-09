@@ -6,7 +6,8 @@ permalink: /teaching/2014-spring-teaching-1
 author_profile: false
 ---
 <details> 
-  
+  <summary></summary>
+
 Theory & Fundamentals
 ======
 _Must reads!_
@@ -25,4 +26,4 @@ Microeconomics & Game Theory
 ======
 * Theory of Games and Economic Behavior - John Von Neumann
 
-</details>
+  </hidden>
