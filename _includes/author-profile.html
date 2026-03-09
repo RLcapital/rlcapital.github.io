@@ -96,8 +96,8 @@
       {% endif %}      
 
       <!-- Font Awesome icons / Social media -->
-      {% if author.artstation %}
-        <li><a href="https://www.artstation.com/{{ author.artstation }}"><i class="fab fa-fw fa-artstation icon-pad-right" aria-hidden="true"></i>Artstation</a></li>
+      {% if author.substack %}
+        <li><a href="https://www.hedgeandtheory.com//{{ author.substack }}"><i class="fab fa-fw fa-substack icon-pad-right" aria-hidden="true"></i>Substack</a></li>
       {% endif %}        
       {% if author.bluesky %}
         <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
@@ -129,9 +129,6 @@
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}      
-      {% if author.substack %}
-        <li><a href="{{ author.substack }}"><i class="fab fa-fw fa-substack icon-pad-right" aria-hidden="true"></i>Substack</a></li>
-      {% endif %}
       {% if author.medium %}
         <li><a href="{{ author.medium }}"><i class="fab fa-fw fa-medium icon-pad-right" aria-hidden="true"></i>Medium</a></li>
       {% endif %}      
