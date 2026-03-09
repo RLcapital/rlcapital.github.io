@@ -6,9 +6,6 @@ permalink: /teaching/History-reading-list
 author_profile: false
 ---
 
-  Your hidden content goes here. You can use **Markdown** inside this block, 
-  including lists, links, and code snippets.
-  
 Investing
 ======
 * The Intelligent Investor - Benjamin Graham
