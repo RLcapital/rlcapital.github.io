@@ -5,7 +5,12 @@ type: "Valuation, security analysis, etc."
 permalink: /teaching/History-reading-list
 author_profile: false
 ---
-
+<details>
+  <summary>Essential readings for investing, finance, and understanding the markets</summary>
+  
+  Your hidden content goes here. You can use **Markdown** inside this block, 
+  including lists, links, and code snippets.
+  
 Investing
 ======
 * The Intelligent Investor - Benjamin Graham
@@ -17,3 +22,5 @@ Investing
 Finance History
 ======
 * Hedge Fund Market Wizard series - Jack D. Schwager 
+
+</details>
