@@ -6,7 +6,6 @@ permalink: /teaching/2014-spring-teaching-1
 author_profile: false
 ---
 <details> 
-  <summary>Essential readings for economics.</summary>
   
 Theory & Fundamentals
 ======
