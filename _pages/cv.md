@@ -17,7 +17,7 @@ Toronto Metropolitan University | Bachelor of Commerce in Economics + Minor in F
     * Ted Rogers TRACE Delegate | Interest Group (Sept. 2022–Dec. 2022)
     * PennyDrops Research & Development Associate | Non-profit Organization (Jun 2024-Sept. 2025)
 
-CFA Level 1 Candidate for May 2026
+CFA Level 1 Candidate registed for May exam (2026)
 
 Work experience
 ======
@@ -52,12 +52,9 @@ Certifications
 * Udemy Financial Analyst Guide to Excel
 * Udemy Python Data Analysis & Visualization Masterclass
   
-Hobbies
+General 
 ======
-* Piano
-* Reading great books
-* Writing essays
-* Resistance training
-* Gaming (over 100 titles on steam)
-* Debate
-* Philosophy
+* Self-taught classical piano player
+* Currently learning German & refining my Spanish
+* Gaming when I have free time (over 100 titles on steam)
+* Avid reader with over hundreds of books in my personal library
