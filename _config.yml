@@ -86,9 +86,9 @@ publication_category:
   books:
     title: 'Reading list'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Research Papers'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Essays'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
