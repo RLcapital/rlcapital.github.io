@@ -11,8 +11,8 @@ main:
   - title: "Reading List"
     url: /teaching/
 
-  - title: "Projects"
-    url: /year-archive/
+  - title: "Papers"
+    url: /publications/
     
   - title: "About"
     url: /cv/
