@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
+title: "Market senstivity to FOMC meetings"
+collection: Papers
+category: Research paper
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This research paper is about how different markets react to FOMC meetings including but not limited to monetary policy shocks'
+date: 2026-06-25
+venue: 'Personal project'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
