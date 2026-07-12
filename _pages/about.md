@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Canadian economics graduate from Toronto Metropolitan Univeristy who is currently studying for the CFA level 1 exam in May 2026; along many other avenues such ml, algo trading, and brushing up on Python. In my downtime, my interests range from playing classical piano to reading the great authors like Dostodevsky or optiziming my conveyer belts on Factorio. 
+I am Canadian economics graduate from Toronto Metropolitan Univeristy who is currently studying for the CFA level 1 exam in November 2026; along many other avenues such ml, algo trading, and brushing up on Python. In my downtime, my interests range from playing classical piano to reading the great authors like Dostodevsky or optiziming my conveyer belts on Factorio. 
 
  Check out my [Substack](https://www.hedgeandtheory.com) where I write out mainly nomrative essays on interesting economics. Check out the technical projects tab, to check out some personal projcets I created. 
 
