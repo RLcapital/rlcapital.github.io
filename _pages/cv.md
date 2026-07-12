@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-Toronto Metropolitan University | Bachelor of Commerce in Economics + Minor in Finance
+Toronto Metropolitan University | Bachelor of Commerce (Honours) in Economics + Minor in Finance
 * Relevant Coursework: _Mathematics for Economics, Advanced Microeconomics, Econometrics, Game Theory, Applied Research methods, Applied Economic Analysis, Investment Analysis, Money & Banking, Derivatives_
 * Activities and societies:
     * Ted Rogers TRACE Delegate | Interest Group (Sept. 2022–Dec. 2022)
     * PennyDrops Research & Development Associate | Non-profit Organization (Jun 2024-Sept. 2025)
 
-CFA Level 1 Candidate registed for May exam (2026)
+CFA Level 1 Candidate registed for November exam (2026)
 
 Work experience
 ======
