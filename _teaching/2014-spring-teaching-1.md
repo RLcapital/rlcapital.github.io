@@ -13,7 +13,7 @@ _Must reads!_
 * Human Action, a treastie on economics (4 volume series) - Ludwig Von Mises
 * The Fiscal Theoy of the Price Level - John Cochrane
 * Princes of the Yen: Japan's Central Bankers and the Transformation of the Economy - Richard Werner
-* 
+* The Theory of Money and Credit - Ludwig von Mises
 
 Global Macro
 ======
@@ -23,4 +23,5 @@ Global Macro
 Microeconomics & Game Theory
 ======
 * Theory of Games and Economic Behavior - John Von Neumann
+* Chiacgo Price Theory (4th Edition) - Jaffe, Minton, Mulligan, & Murphy
 
