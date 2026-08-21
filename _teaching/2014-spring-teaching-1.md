@@ -3,6 +3,7 @@ title: "Economics"
 collection: teaching
 type: "Austrain Economics, pricing theory, monetary policy, etc."
 permalink: /teaching/2014-spring-teaching-1
+excerpt: " "
 author_profile: false
 ---
 
