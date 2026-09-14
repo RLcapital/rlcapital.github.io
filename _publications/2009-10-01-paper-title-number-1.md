@@ -2,7 +2,7 @@
 title: "Market Response to Rate Decisions: Forward Guidance and Cross-Asset Reactions to FOMC Announcements, 2008–2026s"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-07-25-research-paper-01
+permalink: /publication/2026-09-13-FOMC-Research-Paper-01
 excerpt: 'This research paper is about how different assets across various markets react to scheduled and emergency FOMC meetings to cut, hike, or hold steady federal fund rates.'
 date: 2026-06-25
 venue: 'Personal project'
