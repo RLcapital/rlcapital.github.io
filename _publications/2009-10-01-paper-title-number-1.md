@@ -2,7 +2,7 @@
 title: "Market Response to Rate Decisions: Forward Guidance and Cross-Asset Reactions to FOMC Announcements, 2008–2026s"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2026-07-25-research-paper-01
 excerpt: 'This research paper is about how different assets across various markets react to scheduled and emergency FOMC meetings to cut, hike, or hold steady federal fund rates.'
 date: 2026-06-25
 venue: 'Personal project'
@@ -10,4 +10,4 @@ paperurl: 'https://rlcapital.github.io/files/Market_Response_to_Rate_Decisions__
 citation: 'Russell Lopez. (2026). &quot;Market Response to Rate Decisions: Forward Guidance and Cross-Asset Reactions to FOMC Announcements, 2008–2026.&quot;.'
 author_profile: false
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+I am very proud of this research paper due to the statistical rigor and various applied concepts I had to pull from, like econometrics, finance theory, macroeconomics, and various others. It took three months to complete with continual frustration, confusion, and concern. Also, fun fact, this was going to be my undergrad thesis topic that I was going to write about but decided to do it independently. Alas, it was a lot of fun to program and write, I cannot wait to do more independent research in the future! 
