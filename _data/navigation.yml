@@ -9,7 +9,7 @@
 
 main:   
   - title: "Reading List"
-    url: /teaching/
+    url: /reading_list/
 
   - title: "Papers & Projects"
     url: /publications/
