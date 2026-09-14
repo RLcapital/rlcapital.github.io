@@ -84,9 +84,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Reading list'
+    title: 'Reading List'
   manuscripts:
-    title: 'Research papers'    
+    title: 'Research Papers'    
   conferences:
     title: 'Projects'
 
