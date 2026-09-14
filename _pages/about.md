@@ -21,11 +21,5 @@ Some of my favourite readings online (check out my reading list too).
 - [Aswath Damodaran](https://aswathdamodaran.substack.com/?utm_campaign=profile_chips) for capital markets
 - [Richard Werner](https://rwerner.substack.com/) for economic analysis
 
-My vision
-======
-As I enter my mid twenties soon, my focus is aimed towards breaking into the buy-side, more specifically, managing equity portfolios with a sepcialization in derivatives. As for education, I strive to become a CFA charterholder within the next several years with the addtion of pursuing graduate school. Ideally, in my late twenties, I dream of managing my own fund with a macroeconomic-driven style of investing. Beyond this point, it is hard to pinpoint exactly what I would desire to accomplish. Canada is a country that I was born and raised in, one to which I love dearly and that I owe it everything to, therefore, a shift into politics would seem very rationale for some time in my thirties. I would serve to make Canada one of the wealthiest countries in the world with immense capital investment flowing into our country.
-
-This is as far as I thought about in terms of my future, but, of course anything can happen that change the trajectory of everything for the better or unfortunately, for the worse. 
-
 ------
 Feel free to connect for a coffee chat, networking opportunity, or any other inquiry! 
