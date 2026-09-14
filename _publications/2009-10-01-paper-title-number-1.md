@@ -6,7 +6,7 @@ permalink: /publication/2026-07-25-research-paper-01
 excerpt: 'This research paper is about how different assets across various markets react to scheduled and emergency FOMC meetings to cut, hike, or hold steady federal fund rates.'
 date: 2026-06-25
 venue: 'Personal project'
-paperurl: 'https://rlcapital.github.io/files/Market_Response_to_Rate_Decisions__Forward_Guidance_and_Cross_Asset_Reactions_to_FOMC_RL.pdf'
+paperurl: 'https://rlcapital.github.io/files/Market_Response_to_Rate_Decisions__Forward_Guidance_and_Cross_Asset_Reactions_to_FOMC_Announcements__Russell Lopez_Final.pdf'
 citation: 'Russell Lopez. (2026). &quot;Market Response to Rate Decisions: Forward Guidance and Cross-Asset Reactions to FOMC Announcements, 2008–2026.&quot;.'
 author_profile: false
 ---
