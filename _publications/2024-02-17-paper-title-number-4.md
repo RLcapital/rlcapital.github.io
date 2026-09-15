@@ -7,5 +7,6 @@ excerpt: 'A solo class project in my undergraduate studies, where given the Dow 
 date: 2025-09-30
 venue: 'Class Project'
 paperurl: 'https://rlcapital.github.io/files/paper3.pdf'
+author_profile: false
 ---
 Please note that this current project is undergoing improvements, proof-reading, and overall changes to better suit its readability and quality. 
