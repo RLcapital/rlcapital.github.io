@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am Canadian economics graduate from Toronto Metropolitan Univeristy who is currently studying for the CFA level 1 exam in November 2026; along many other avenues such ml, algo trading, and brushing up on Python. In my downtime, my interests range from playing classical piano to reading the great authors like Dostodevsky or optiziming my conveyer belts on Factorio. 
+I am Canadian investor and recent graduate, holding a B.com in Economics, who is currently studying for the CFA level 1 exam in November 2026. Alongside this, I working on various projects including research papers and equity reports. 
 
- Check out my [Substack](https://www.hedgeandtheory.com) where I write out mainly nomrative essays on interesting economics. Check out the technical projects tab, to check out some personal projcets I created. 
+Check out my [Substack](https://www.hedgeandtheory.com) to find equity reports as well as normative essays centred around the philosophy of economics.
+
+On another note, while your here, don't forget to check out the 'Papers & Projects' to view past projects I've done. 
 
 What I'm working on
 ======
-Besides hitting the books, there are numerous things I am currently working on. First, is enhancing my technical experise in various softwares like Excel and Python by completing course work on websites like Udemy and Coursera. In addition to technicality, I am working on building my brand, _Hedge & Theory_ for writing in domains like X, Substack, & Linkedin, alongside my YouTube channel _Russell Capital_, to ultimately take a stance in the battlefield of ideas. Where anti-capitalist sentiment seems to be growing despite its insurmountable transformation of human prosperity. Therefore, a free market school of thought must be vehemently fought over for posterity. 
+Besides exam studying and professional work, there are numerous things I am currently working on. First, is enhancing my technical expertise in various softwares like Excel and Python through self-teaching methods. Second, I fine-tuning my Spanish which I am ashamed to say still not reached proficiency, after this, I plan to study German. Third, growing an online presence is extremely important, especially as digitization and technology grows. Fourthly and at last, I have a great interest in studying deep mathematics, as regrettably I did not formally study this in college. It only occurred to me in my final year of school, that everything on a practical basis can fundamentally can be reduced down to math. Whether it be computed bond prices or building a house, most applications require this, therefore, learning it in its most complex form makes sense.
+In my downtime, my interests range from playing classical piano to reading a profound sci-fi book or playing an great single-player game. 
 
-Some of my favourite readings online (check out my reading list too). 
+For the avid readers: Here are some of my favourite Substack publications: (check out the 'Reading List' tab too). 
 
 - [John Cochrane](https://www.grumpy-economist.com/) for essays on economics
 - [Aswath Damodaran](https://aswathdamodaran.substack.com/?utm_campaign=profile_chips) for capital markets
