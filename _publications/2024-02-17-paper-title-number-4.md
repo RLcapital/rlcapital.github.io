@@ -7,7 +7,7 @@ excerpt: 'A solo class project in my undergraduate studies, where given the Dow 
 date: 2025-09-30
 venue: 'Class Project'
 paperurl: 'https://rlcapital.github.io/files/30_Stock_portfolio_project_Russell Lopez.pdf'
-codeurl: 'https://rlcapital.github.io/files/Russell Lopez_DOW30_Project file.xlsx'
+excelurl: 'https://rlcapital.github.io/files/Russell Lopez_DOW30_Project file.xlsx'
 citation: 'Russell Lopez. (2026). &quot;30 Stock Portfolio Optimization Project: Decomposition Paper &quot;.'
 author_profile: false
 ---
