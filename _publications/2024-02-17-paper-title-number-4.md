@@ -11,6 +11,6 @@ excelurl: 'https://rlcapital.github.io/files/Russell_Lopez_DOW30_Project.xlsx'
 citation: 'Russell Lopez. (2026). &quot;30 Stock Portfolio Optimization Project: Decomposition Paper &quot;.'
 author_profile: false
 ---
-[Download Excel Data (.xlsx)](https://rlcapital.github.io/files/Russell_Lopez_DOW30_Project.xlsx)
-
 A decomposition paper that breaks down the mathematics, theory, and construction of this portfolio project. This was a class project and was done solo, in my second last semester of university (September-November 2025) that was all fully constructed in Excel. Happy readings! 
+
+[Download Excel File (.xlsx)](https://rlcapital.github.io/files/Russell_Lopez_DOW30_Project.xlsx)
