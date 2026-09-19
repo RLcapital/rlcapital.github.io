@@ -6,7 +6,9 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'A solo class project in my undergraduate studies, where given the Dow Jones Industrial Average (DJIA) as reference, a price-weighted index, you must reconstruct the index into a 30 stock portfolio; with optimal weights to generate the maximum return and least amount of risk.'
 date: 2025-09-30
 venue: 'Class Project'
-paperurl: 
+paperurl: 'https://rlcapital.github.io/files/30_Stock_portfolio_project_Russell Lopez.pdf'
+paperurl: 'https://rlcapital.github.io/files/Russell Lopez_DOW30_Project file.xlsx'
+citation: 'Russell Lopez. (2026). &quot;30 Stock Portfolio Optimization Project: Decomposition Paper &quot;.'
 author_profile: false
 ---
-Please note that this current project is undergoing improvements, proof-reading, and overall changes to better suit its readability and quality. 
+Happy readings! 
