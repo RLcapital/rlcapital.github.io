@@ -1,5 +1,5 @@
 ---
-title: "Market Response to Rate Decisions: Forward Guidance and Cross-Asset Reactions to FOMC Announcements, 2008–2026s"
+title: "Market Response to Rate Decisions: Forward Guidance and Cross-Asset Reactions to FOMC Announcements, 2008–2026."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-09-13-FOMC-Research-Paper-01
