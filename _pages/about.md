@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, the name is **Russell** and I am Canadian investor and recent graduate, holding a **B.com in Economics**, who is currently working towards the CFA accreditation (**CFA level 1 exam in November 2026**), and possibly a postgraduate degree afterwards. 
+Hello there, the name is **Russell** and I am Canadian investor and recent graduate, holding a **B.com (Hons) in Economics**, who is currently working towards the CFA accreditation (**CFA level 1 exam in November 2026**), and possibly a postgraduate degree afterwards. 
 
 Since graduating, I've recently completed an independent research paper applying what I've learned from my undergrad including **investment theory**, **econometrics**, and **macroeconomics**, you can [**read here**](https://russell-lopez.ca/publication/2026-09-13-FOMC-Research-Paper-01); the paper analyzes how the markets respond to the Fed's interest rate policy from 2008-2026, through an event study on cross-asset reactions. 
 
