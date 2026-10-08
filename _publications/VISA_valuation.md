@@ -6,7 +6,7 @@ permalink: /publication/2026-10-07-visa-valuation
 excerpt: 'A DCF valuation and initiation of coverage covering the financial network giant, VISA Inc.'
 date: 2026-10-07
 venue: 'Equity Research'
-paperurl: 
+paperurl: 'https://rlcapital.github.io/files/Hedge & Theory - A brief valuation of VISA Inc. (V_NYSE).pdf'
 citation: 'Russell Lopez. (2026). &quot;A brief valuation of VISA Inc. (V:NYSE)&quot;.'
 author_profile: false
 ---
