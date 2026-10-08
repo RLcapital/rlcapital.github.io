@@ -1,5 +1,5 @@
 ---
-title: "A brief valuation of VISA Inc. (V:NYSE)"
+title: "A Brief Valuation of VISA Inc. (V:NYSE)"
 collection: publications
 category: conferences
 permalink: /publication/2026-10-07-visa-valuation
