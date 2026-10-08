@@ -13,7 +13,7 @@ Since graduating, I've recently completed an independent research paper applying
 
 There are numerous, other ambitious projects currently underway in the pipeline, which I am more than excited to share on the [**Papers & Projects**](https://russell-lopez.ca/publications/) page when they are ready!   
 
-Check out my [**Substack**](https://www.hedgeandtheory.com) to find writing based around more normative-styled essays, centred around the philosophy of economics and contemporary research, with the **first equity report** scheduled to be published on **October 4th, 2026.**
+Check out my [**Substack**](https://www.hedgeandtheory.com) to find writing based around more normative-styled essays, centered around the philosophy of economics and contemporary research; with my first ever [**equity report**](https://substack.com/home/post/p-216015702) covering **VISA Inc. (NYSE: V)** now live!
 
 On a personal note, deliberate improvement is an important virtue to me, therefore outside of career work; I am fine-tuning my **Spanish** which I am ashamed to say still not reached proficiency, progressing in my self-taught **classical piano** journey, and reading profound sci-fi and classic [**books**](https://russell-lopez.ca/reading_list/).
 
