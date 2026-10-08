@@ -12,4 +12,4 @@ author_profile: false
 ---
 A 6-week long project that started off with tons of reading, mainly, 10-K filings, earning call transcripts, and other investor relations information. Followed by laborious Excel inputting of key financial data, like the income statement for all 10 years, 2016-2025. After this, the main valuation was undergone where I often questioned if I was evenly constructing it correctly, made evident by numerous errors. Frustration lead me to take a two-day break, during which, I consulted with a good and very successful friend of mine with coffee. This chat gave me the inspiration to jump back into the project, finish the valuation, cross-reference my work, and then write the report on Substack with Python by my side to generate visuals. Hopefully the beginning of many equity reports to come! 
 
-_For the full Excel project file, please email me if interested!_
+_Full appendix at the bottom of the pdf, for the full Excel project file, please email me!_
