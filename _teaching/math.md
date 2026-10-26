@@ -2,7 +2,7 @@
 title: "Math"
 collection: teaching
 type: "Applied math, statistics, etc."
-permalink: /math-reading-list
+permalink: /teaching/math-reading-list
 excerpt: " "
 author_profile: false
 ---
