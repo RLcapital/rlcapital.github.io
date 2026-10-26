@@ -21,6 +21,23 @@ Fundamental Finance Theory
 * The Little Book of Evaulation -  Aswath Damodaran
 * Value Investing: From Graham to Buffett and Beyond -  Bruce Greenwald
 
-Finance History
+Derivatives 
 ======
+* Option Volatility and Pricing Strategies - Sheldon Natenberg
+* Dynamic Hedging: Managing Vanilla and Exotic Options - Nassim Taleb 
+
+Portfolio Management
+======
+* Active Portfolio Management - Richard C. Grinold 
+* Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage - Michael Isichenko
+
+Modelling & Technical
+======
+* Python for Data Analysis - Wes McKinney
+* Python Crash Course - Eric Matthes
+* Financial Time Series - Ruey S. Tsay 
+
+Other 
+======
+* The Essays of Warren Buffet - Laurence Cunningham
 * Hedge Fund Market Wizard Series - Jack D. Schwager 
